@@ -1,6 +1,6 @@
 {
-  "name": "my-awesome-button-alert-component",
-  "version": "1.2.3",
+  "name": "@CamachoPt/my-awesome-button-alert-component",
+  "version": "1.2.4",
   "main": "dist/index.js",
   "license": "MIT",
   "devDependencies": {
