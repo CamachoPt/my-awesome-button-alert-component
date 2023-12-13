@@ -1,6 +1,6 @@
 {
   "name": "@CamachoPt/my-awesome-button-alert-component",
-  "version": "1.3.5",
+  "version": "1.4.0",
   "main": "dist/index.js",
   "license": "MIT",
   "repository": "git://github.com/CamachoPt/my-awesome-button-alert-component.git",
