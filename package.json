@@ -1,0 +1,27 @@
+{
+  "name": "my-awesome-button-alert-component",
+  "version": "1.0.2",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@ladle/react": "^4.0.2",
+    "@types/react": "^18.2.45",
+    "@types/react-dom": "^18.2.17",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3"
+  },
+  "peerDependencies": {
+    "react": "^16.8 || ^17 || ^18",
+    "react-dom": "^16.8 || ^17 || ^18"
+  },
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "ladle": "ladle serve",
+    "build": "tsup"
+  }
+}

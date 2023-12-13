@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports, "__esModule", {value: true}); function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }var _react = require('react'); var _react2 = _interopRequireDefault(_react);var i=({title:o,className:e=""})=>{let t=()=>{alert(new Date().toLocaleDateString())};return _react2.default.createElement("button",{className:`my-awesome-component ${e}`,onClick:t},o)};exports.Button = i;
+//# sourceMappingURL=index.js.map
