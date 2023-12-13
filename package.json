@@ -1,8 +1,9 @@
 {
   "name": "@CamachoPt/my-awesome-button-alert-component",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "main": "dist/index.js",
   "license": "MIT",
+  "repository": "git://github.com/CamachoPt/my-hello-world.git",
   "devDependencies": {
     "@ladle/react": "^4.0.2",
     "@types/react": "^18.2.45",
